@@ -1,5 +1,6 @@
 # hello-world
 my-init_repo  
-# My Name is Patrick Wambua
+# P: Details.
+My Name is Patrick Wambua
 
 i like swimming so much
